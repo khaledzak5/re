@@ -80,7 +80,6 @@ Architecture Diagram Flow
                   │  Stripe API     │
                   │  (Payments)     │
                   └─────────────────┘
-
 ## Frontend Architecture
 2.1 Technology Stack
 Core Framework:
