@@ -85,13 +85,7 @@ Memory Efficient: Optimized model size and inference pipeline
                   └─────────────────┘
 ```
 
-**Diagram Explanation:**
-- **Client Browser:** المستخدمين بيتعاملوا مع الواجهة المصممة برياكت وTailwind.
-  - AI/Computer Vision (TensorFlow.js/MediaPipe) للتتبع والتحليل.
-  - IndexedDB بيخزن بيانات مؤقتة أو كاش للتجربة بدون إنترنت.
-- **ICP (Internet Computer Protocol):** الباك ايند الذكي باستخدام Motoko smart canisters للتعامل مع المستخدمين، الجلسات، الاشتراكات...الخ.
-  - التخزين يتم على البلوكشين (Stable Memory) ويوفر أمان وديمومة للبيانات.
-- **Stripe API:** التكامل مع الدفع الخارجي عن طريق Stripe عبر HTTP Outcalls.
+
 
 ## Frontend Architecture
 2.1 Technology Stack
